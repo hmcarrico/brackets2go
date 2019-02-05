@@ -1,0 +1,98 @@
+/* 
+colors
+black: #241f1b
+white: #f1efe4
+red: #791e0e
+*/
+@import url('https://fonts.googleapis.com/css?family=Carrois+Gothic+SC');
+
+
+.login-background {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRaA-3I6b1sgUm5phscOlbAmhxxXkKTiM_q8jnMRrOUiVKrs9s1Q');
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.login-parent {
+    display: flex;
+    flex-direction: column;
+    background: #241f1b;
+    background-repeat: repeat;
+    height: 80vh;
+    width: 360px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    color: #241f1b;
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+.login-parent div {
+    padding: 30px 0;
+    color: #ffffff;
+}
+
+.login-parent p {
+    /* margin-bottom: 307px; */
+}
+
+.login-link {
+    text-decoration: none;
+    color: #791e0e;
+    /* padding-bottom: 100px; */
+}
+
+.login-parent button {
+    background: #241f1b;
+    color: white;
+    height: 30px;
+    width: 120px;
+    border-radius: 20px;
+}
+
+.login-title {
+    /* background: #241f1b; */
+    height: 200px;
+    padding: 0;
+}
+
+.login-title img {
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.title-names {
+    padding: 2px;
+}
+
+.login-h1One {
+    color: #791e0e;
+    font-size: 40px;
+}
+
+.login-h1Two {
+    color: #ffffff;
+    font-size: 80px;
+    font-weight: 900;
+}
+
+.login-h1Three {
+    color: #791e0e;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.none {
+    display: none;
+}
+
+/* .error-message {
+    position: fixed;
+    background: #791e0ebf;
+    text-align: center;
+    height: 50px;
+    width: 79%;
+    bottom: 0;
+} */

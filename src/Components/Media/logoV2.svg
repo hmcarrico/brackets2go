@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 772 522">
+  <defs>
+    <style>
+      .cls-1, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-7 {
+        font-size: 452px;
+        font-family: GurmukhiSangamMN, Gurmukhi Sangam MN;
+      }
+
+      .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 14px;
+      }
+
+      .cls-5 {
+        stroke: #791e0e;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-7 {
+        fill: #791e0e;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="293" height="481"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="276" height="514"/>
+    </clipPath>
+  </defs>
+  <g id="Symbol_2_1" data-name="Symbol 2 – 1" transform="translate(-243.5 -50.5)">
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" class="cls-2" transform="translate(621.5 50.5)">
+      <g transform="translate(-621.5 -50.5)">
+        <text id="B_" data-name="B
+" class="cls-3" transform="translate(621.5 501.5)"><tspan x="0" y="0">B</tspan><tspan x="0" y="586"></tspan></text>
+      </g>
+    </g>
+    <line id="Line_1" data-name="Line 1" class="cls-4" x2="74" transform="translate(865.5 264.5)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-4" y2="74" transform="translate(945.5 194.5)"/>
+    <line id="Line_3" data-name="Line 3" class="cls-4" y2="74" transform="translate(945.5 262.5)"/>
+    <line id="Line_4" data-name="Line 4" class="cls-4" x2="70" transform="translate(945.5 201.5)"/>
+    <line id="Line_5" data-name="Line 5" class="cls-4" x2="70" transform="translate(943.5 329.5)"/>
+    <line id="Line_6" data-name="Line 6" class="cls-4" x2="70" transform="translate(875.5 431.5)"/>
+    <line id="Line_7" data-name="Line 7" class="cls-4" y2="74" transform="translate(945.5 361.5)"/>
+    <line id="Line_8" data-name="Line 8" class="cls-4" y2="74" transform="translate(945.5 429.5)"/>
+    <line id="Line_9" data-name="Line 9" class="cls-4" x2="70" transform="translate(945.5 368.5)"/>
+    <line id="Line_10" data-name="Line 10" class="cls-4" x2="70" transform="translate(943.5 496.5)"/>
+    <line id="Line_11" data-name="Line 11" class="cls-5" x1="81" transform="translate(314.5 257.5)"/>
+    <line id="Line_12" data-name="Line 12" class="cls-5" y2="74" transform="translate(314.5 327.5) rotate(180)"/>
+    <line id="Line_13" data-name="Line 13" class="cls-5" y2="74" transform="translate(314.5 259.5) rotate(180)"/>
+    <line id="Line_14" data-name="Line 14" class="cls-5" x2="70" transform="translate(314.5 320.5) rotate(180)"/>
+    <line id="Line_15" data-name="Line 15" class="cls-5" x2="70" transform="translate(316.5 192.5) rotate(180)"/>
+    <line id="Line_16" data-name="Line 16" class="cls-5" x2="70" transform="translate(383.5 420.5) rotate(180)"/>
+    <line id="Line_17" data-name="Line 17" class="cls-5" y2="74" transform="translate(313.5 489.5) rotate(180)"/>
+    <line id="Line_18" data-name="Line 18" class="cls-5" y2="74" transform="translate(313.5 421.5) rotate(180)"/>
+    <line id="Line_19" data-name="Line 19" class="cls-5" x2="70" transform="translate(313.5 482.5) rotate(180)"/>
+    <line id="Line_20" data-name="Line 20" class="cls-5" x2="70" transform="translate(315.5 354.5) rotate(180)"/>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" class="cls-6" transform="translate(355.5 58.5)">
+      <g transform="translate(-355.5 -58.5)">
+        <text id="S_" data-name="S
+" class="cls-7" transform="translate(355.5 509.5)"><tspan x="0" y="0">S</tspan><tspan x="0" y="586"></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

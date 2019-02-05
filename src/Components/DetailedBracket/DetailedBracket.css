@@ -1,0 +1,26 @@
+.bracket-background-parent {
+    display: flex;
+    flex-direction: column;
+    background: #241f1b;
+    background-repeat: repeat;
+    min-height: 80vh;
+    width: 360px;
+    padding-top: 30px;
+    align-items: center;
+    text-align: center;
+    margin: 20px auto 50px auto;
+    color: white;
+    font-family: 'Carrois Gothic SC', sans-serif;
+}
+
+.bracket-background-parent h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.pairs-display {
+    background: white;
+    color: #241f1b;
+    padding: 20px 60px;
+    margin: 20px;
+}

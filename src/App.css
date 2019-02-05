@@ -1,32 +1,8 @@
-.App {
+@import url('https://fonts.googleapis.com/css?family=Carrois+Gothic+SC');
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+
+html {
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRaA-3I6b1sgUm5phscOlbAmhxxXkKTiM_q8jnMRrOUiVKrs9s1Q');
+  width: 100%;
 }
