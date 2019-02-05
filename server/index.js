@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 const session = require('express-session');
 const massive = require('massive');
 const auth = require('./contorllers/authController');
+const path = require('path')
 require('dotenv').config();
 
 const app = express();
