@@ -24,5 +24,9 @@ app.post('/logout', auth.logout);
 
 app.use(bodyParser.json());
 
+app.get('*', (req, res)=>{
+    res.sendFile(path.join(__dirname, '../build/index.html'));
+})
+
 const PORT = 4075;
 app.listen(PORT, () => console.log(`Listenin on da best port around, ${PORT}`));
